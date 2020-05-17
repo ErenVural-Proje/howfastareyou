@@ -1,0 +1,25 @@
+Oyun Nasıl Oynanır;
+Önünüze Rastgele Bir Sürede Gelen Karelerden Doğru Olana Tıklayarak Oynanıyor.
+
+Oyunun Amacı;
+Refleksinizi Ölçmek
+
+Oyunda Dikkat Edilmesi Gerekenler;
+Oyunda Önünüze İki Kare Yan Yana Rastgele Bir Pozisyonda Geliyor ve Bunlardan Birisi Doğru , Birisi Yanlış Olan.
+Sizden İstenen Kısa Bir Süre İçerisinde Hem Karelerin Pozisyonunu Bulmak , Hem Doğru Olanı Bulmak , Hem de Tıklamak.
+Refleks Kontrolu 0.40 Saniye'ye Göre Ölçülüyor. Bu Nedenle Refleksinizin İyi Sayılması İçin 0.40 Saniyeden Düşük
+Bir Sürede Tıklamak Gerekiyor. Eğer 0.40dan Uzun Bir Sürede Tıklanırsa Refleksiniz Zayıf Sayılıyor.
+
+
+Oyundaki Şekillerin Çıkma Aralığı;
+Kareler Kendi Aralarında Rastgele Bir Şekilde Doğru veya Yanlış Olarak Sıralanıyor.
+Karelerin Oluşma Süresi Butona Tıklandıktan Sonra Başlıyor ve Belli Bir Süre aralığında(3-5 saniye) Rastgele Oluşuyor.
+
+Oyundaki Tıklama Çalışması;
+Tıklama Fonksiyonu Sadece Karelerin İçinde ve Kenarlarında Çalışıyor. Bu Yüzden Kare Dışındaki Tıklamalar Geçersiz
+Sayılıyor.
+
+Oyunun Oynanışı;
+İlk Açılan Ekranda Shall We? Butonuna Tıklanarak Oyun Açılıyor.
+Gelen Ekranda Şekillerin Gelmesi Bekleniyor ve Geldiği Andan Sonra Refleksinize Bağlı Olarak Tıklama Yapıyorsunuz.
+Bu Sırada Oluşan Sayaç Size Refleks Sürenizi Belirtiyor ve Seviyenizi Ölçüyor.
